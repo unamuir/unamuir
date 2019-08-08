@@ -6,4 +6,4 @@ categories: cats
 thumbnail: /images/comics/cat1.png
 ---
 
-{% include figure.html src="cat1.png" alt="A Fistful of Lunars Page 2" %}}
+{% include figure.html src="cat1.png" alt="Cats page 1" %}}
