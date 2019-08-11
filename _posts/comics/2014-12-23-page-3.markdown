@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "page 3"
+title: ""
 date: 2014-12-24 18:22:47 -0700
 categories: comics
 thumbnail: /images/comics/cat1.svg
 ---
 
-{% include figure.html src="cat2.svg" alt="" %}
+{% include figure.html src="cat1.svg" alt="" %}
