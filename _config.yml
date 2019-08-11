@@ -29,7 +29,7 @@ permalink: /:categories/:title/
 ####CUSTOM
 
 # Set default header image
-header: no
+# header: yes
 header_sm: images/cat1.png
 header_med: images/cat1.png
 header_large: images/cat1.png
