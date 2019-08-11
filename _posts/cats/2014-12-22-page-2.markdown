@@ -2,7 +2,7 @@
 layout: post
 title: "page 2"
 date: 2014-12-22 18:21:47 -0700
-categories: cats
+categories: comics
 thumbnail: /images/comics/cat2.png
 ---
 
