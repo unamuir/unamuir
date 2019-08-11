@@ -6,4 +6,4 @@ categories: comics
 thumbnail: /images/comics/cat1.svg
 ---
 
-{% include figure.html src="cat2.svg" alt="Cats page 3" %}
+{% include figure.html src="cat2.svg" alt="" %}
