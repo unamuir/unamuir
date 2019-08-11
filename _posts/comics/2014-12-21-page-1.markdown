@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "page 1"
+title: ""
 date: 2014-12-22 18:21:47 -0700
 categories: comics
 thumbnail: /images/comics/cat1.png
